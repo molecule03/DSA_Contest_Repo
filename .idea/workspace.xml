@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="044dc974-65b1-4279-a884-b3cf3add031f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/molecule03_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/AugLunchtime/ARREQU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/AugLunchtime/EASYPERM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/AugLunchtime/SUB12OP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/CodeDrive/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/ACCURACY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/ENSPACE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/KMEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/PER_MED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/TEA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyCookOff/XORPERM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/CHEFCAND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/FINDABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/GAMEOFPILES1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/KNIGHT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/PASSTHEEXAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLong1/SLOWSOLN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLunchtime/EZSPEAK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLunchtime/LARGEFAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLunchtime/MAKEPALAGAIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLunchtime/MEDMAXMATCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JulyLunchtime/STRINGXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/ACS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/APGRID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/DNASTRAND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/FIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/GCDANDLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/PAIREQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/REVSORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/JuneLong2/STRNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/SepLunchTime/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/SepLunchTime/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/SepLunchTime/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/SepLunchTime/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/SepLunchTime/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter100/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter100/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/ADJSUMPAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/ARRAYRET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/BESTOFTWO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/CHEFAPPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/EVEQODD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter45/XORMUL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/ARMTRN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/ARRSORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/CNTWRD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/GRPASSN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/M1ENROL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/PRIME_XOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter46/SRTARR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter47/CONN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter47/COPYPUSH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter47/ENDSORTED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter47/HEIGHTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter47/MINCOINSREQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter48/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter48/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter48/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter48/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/FARHOSTEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/HIGHFREQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/MONKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/SPLSTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter49/VALIDMIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter51/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter57/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter58/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter59/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter65/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter65/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter65/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter65/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter65/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter66/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter66/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter66/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter66/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter66/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter78/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter78/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter78/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter78/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter82/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter83/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter83/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter83/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter83/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter83/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter84/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter84/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter84/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter84/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter84/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter85/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter85/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter85/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter85/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter85/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter86/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter86/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter86/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter86/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter86/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter98/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter98/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter98/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter99/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter99/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contest/Starter99/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/CodeTONRound5/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/CodeTONRound5/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/CodeTONRound5/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/CodeTONRound5/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound151/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound151/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound151/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound152/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound152/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound152/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound153/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound153/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound153/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound154/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound154/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound154/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/EduRound154/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/HSSC/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/HSSC/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/HSSC/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound1/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/PinelyRound2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round836/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round836/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round836/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round836/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round880/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round880/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round880/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round880/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round881/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round881/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round881/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round881/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round881/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round882/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round882/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round882/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round883/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round883/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round883/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round883/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round883/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round884/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round884/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round884/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round884/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round885/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round885/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round885/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round885/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round886/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round887/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round887/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round887/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round889/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round889/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round889/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round889/C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round890/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round890/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round890/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round891/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round891/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round891/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round891/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round891/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round892/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round892/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round892/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round896/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round896/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round896/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round897/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round897/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round897/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/Round898/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/TypeDB/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/TypeDB/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces_Contest/TypeDB/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Accenture/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Accenture/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Accenture/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Accenture/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Accenture/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Atlassian/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Atlassian/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Atlassian/Bhavin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Atlassian/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Atlassian/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Delloite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Hexaware/SoultionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/IBM/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/IBM/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/IBM/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/IBM/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/LTI/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/LTI/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/LTI/LTI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/LTI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/MediaDotNet/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/MorganStanley/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/NeoSoft/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/SPJC/L.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/TCS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/src/Isha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/src/Nishant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TCS/src/Sumit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TechMahindra/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/TechMahindra/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/Zycus/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/net/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companies/net/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Arrays/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/HashTable/CharFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/HashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/HashTable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/LinkedList/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Queue/QueueReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Queue/QueueUArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Queue/QueueUStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Stack/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Stack/StackuArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Stack/StackuLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/Linear/Stack/StringReverserUStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/AVLTrees/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/AVLTrees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/BinarySearchTrees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/BinarySearchTrees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Graphs/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Graphs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Heaps/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Heaps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Heaps/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Heaps/PriorityQueuesWithHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Tries/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/DataStructures/NonLinear/Tries/Tries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/BW88/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/BW88/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W313/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W313/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W336/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W336/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W336/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W352/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W352/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W353/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W353/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W354/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W354/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W356/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W356/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W356/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W357/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contest/W357/B.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tddOQly1rlfedx6c32Blbfqbrd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/molecule03/Documents/Projects/DSA_Contest_Repo",
+    "onboarding.tips.debug.path": "/home/molecule03/Documents/Projects/molecule03_code/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/DSA" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.DataStructures.Linear.Main" />
+      <module name="molecule03_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.DataStructures.Linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044dc974-65b1-4279-a884-b3cf3add031f" name="Changes" comment="" />
+      <created>1740685855125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740685855125</updated>
+    </task>
+    <servers />
+  </component>
+</project>
