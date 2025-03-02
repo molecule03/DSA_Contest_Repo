@@ -2,7 +2,7 @@ package DSA.DataStructures.NonLinear.Graphs;
 
 import java.util.*;
 
-public class Graph {
+public class DirectedGraph {
 
     private class Node{
         private String label;
