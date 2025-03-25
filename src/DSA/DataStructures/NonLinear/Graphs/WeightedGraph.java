@@ -1,10 +1,12 @@
 package DSA.DataStructures.NonLinear.Graphs;
 
+import Companies.IBM.A;
+
 import java.util.*;
 
 public class WeightedGraph {
 
-    private class Node{
+    public class Node{
         private int val;
         public Node(int val){
             this.val = val;
@@ -15,12 +17,12 @@ public class WeightedGraph {
         }
     }
 
-    private class Edge {
+    public class Edge {
         Node from;
         Node to;
         int weight;
 
-        Edge(Node from, Node to, int weight){
+        public Edge(Node from, Node to, int weight){
             this.from = from;
             this.to = to;
             this.weight = weight;
@@ -28,9 +30,7 @@ public class WeightedGraph {
 
         @Override
         public String toString() {
-            return  "{gi"+to+
-                    ", weight=" + weight +
-                    '}';
+            return from + "->" + to + ":" + weight;
         }
     }
 
@@ -40,6 +40,7 @@ public class WeightedGraph {
     public void addNode(int val){
         Node node = new Node(val);
         nodes.put(val, node);
+        adjList.putIfAbsent(node, new ArrayList<>());
     }
     public void  addEdge(int from, int to, int weight){
         Node fromNode = nodes.get(from);
@@ -48,15 +49,94 @@ public class WeightedGraph {
         if(fromNode == null || toNode == null)
             throw new IllegalArgumentException();
 
-        Edge edgefrom = new Edge(fromNode, toNode, weight);
-        List<Edge> edgesfrom = adjList.getOrDefault(fromNode, new ArrayList<>());
-        edgesfrom.add(edgefrom);
-        adjList.put(fromNode, edgesfrom);
+        adjList.get(fromNode).add(new Edge(fromNode, toNode, weight));
+        adjList.get(toNode).add(new Edge(toNode, fromNode, weight));
+    }
 
-        Edge edgeto = new Edge(toNode, fromNode, weight);
-        List<Edge> edgesto = adjList.getOrDefault(toNode, new ArrayList<>());
-        edgesto.add(edgeto);
-        adjList.put(toNode, edgesto);
+    Map<Node, Node> prev;
+    public List<Integer> shortestPath(int from, int to){
+//        prev = new HashMap<>();
+        shortestDistance(from, to);
+
+        List<Integer> path = new ArrayList<>();
+        Node fromNode = nodes.get(from);
+        Node toNode = nodes.get(to);
+        path.add(toNode.val);
+        while(true){
+            Node prevNode = prev.get(toNode);
+            path.add(prevNode.val);
+            if(prevNode.equals(fromNode)) break;
+
+            toNode = prevNode;
+        }
+        Collections.reverse(path);
+        return path;
+    }
+    public int shortestDistance(int from, int to){
+        this.prev = new HashMap<>();
+
+        Node fromNode = nodes.get(from);
+
+        Map<Node, Integer> dis = new HashMap<>();
+        for(Node node : adjList.keySet()) dis.put(node, Integer.MAX_VALUE);
+        dis.put(fromNode, 0);
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(ne -> ne[1]));
+
+        pq.offer(new int[]{from, 0});
+
+        while(!pq.isEmpty()){
+            Node cur = nodes.get(pq.poll()[0]);
+
+            for(Edge e : adjList.get(cur)){
+
+                Node toNode = e.to;
+                int newDis  = e.weight + dis.get(cur);
+
+                if(dis.containsKey(toNode)){
+                    if(dis.get(toNode) > newDis){
+                        dis.put(toNode, newDis);
+                        prev.put(toNode, cur);
+                        pq.offer(new int[]{toNode.val, newDis});
+                    }
+                }
+
+            }
+        }
+
+        return dis.get(nodes.get(to));
+    }
+
+
+    public boolean hasCycle(){
+        Set<Node> vis = new HashSet<>();
+        for(Node cur : nodes.values()){
+
+            if(!vis.contains(cur)) {
+                if(!dfs(cur, null, vis)){
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    }
+
+    public boolean dfs(Node curNode, Node parNode, Set<Node> vis){
+
+        vis.add(curNode);
+//        System.out.println(curNode);
+
+        for(Edge edge : adjList.get(curNode)){
+            if(edge.to.equals(parNode)) continue;
+            if(vis.contains(edge.to)) {
+//                System.out.println(curNode+" -> "+edge.to);
+                return false;
+            }
+            if(!dfs(edge.to, curNode, vis)) return false;
+        }
+
+        return true;
     }
 
     public void print(){
