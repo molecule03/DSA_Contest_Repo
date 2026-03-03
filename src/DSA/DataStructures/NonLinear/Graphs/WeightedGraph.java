@@ -82,7 +82,6 @@ public class WeightedGraph {
         dis.put(fromNode, 0);
 
         PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(ne -> ne[1]));
-
         pq.offer(new int[]{from, 0});
 
         while(!pq.isEmpty()){

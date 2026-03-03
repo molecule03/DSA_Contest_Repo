@@ -2,7 +2,7 @@ package DSA.DataStructures.NonLinear.Graphs;
 import java.util.*;
 public class TopologicalSort {
 
-    // Topolocail Sort Using BFS can work with Cylic Graph using Kahn's Algorithm
+    // Topological Sort Using BFS can work with Cylic Graph using Kahn's Algorithm
     public List<Integer> topoSortUsingBFS(int[][] edges, int numberOfNodes, int source, int destination){
 
         // TODO : Make Adjacency List from edges
@@ -68,8 +68,5 @@ public class TopologicalSort {
         }
         sortedNodes.push(node);
     }
-
-
-
 
 }

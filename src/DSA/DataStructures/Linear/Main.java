@@ -8,6 +8,24 @@ public class Main {
 
     public static void main(String[] args) {
 
+        class Shape{
+            int len;
+            int breadth;
+
+            public Shape(int len, int breadth){
+                this.len = len;
+                this.breadth = breadth;
+            }
+        }
+
+        var s1 = new Shape(1,2);
+        var s2 = new Shape(3, 4);
+
+        Shape arr[] = {s1, new Shape(5,6), s2};
+
+        System.out.println(Arrays.toString(arr));
+
+
 //
 
 //        O(n)  3 9 7 5 1
