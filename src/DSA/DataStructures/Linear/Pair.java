@@ -1,4 +1,4 @@
-package DSA.DataStructures.NonLinear;
+package DSA.DataStructures.Linear;
 
 public  class Pair<K, V> {
     private K key; private V value;

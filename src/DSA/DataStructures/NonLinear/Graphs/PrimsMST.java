@@ -33,7 +33,7 @@ public class PrimsMST {
         while(!pq.isEmpty()){
             Edge cur = pq.poll();
             int curNode = cur.to;
-            int parNode = cur.par;
+            int parNode = cur.from;
             int curWeight = cur.weight;
 
             // If current node is Visited that mean better edge with smaller weight between curNode and some other node is already been formed
@@ -43,6 +43,7 @@ public class PrimsMST {
             if(parNode != -1 ){
                 MSTedges.add(new int[]{curNode, parNode, curWeight});
             }
+
             vis.add(curNode);
             MSTWeight += curWeight;
 
@@ -60,10 +61,10 @@ public class PrimsMST {
     }
 
     static class Edge {
-        int to , par, weight;
-        Edge(int to, int par, int weight){
+        int to , from, weight;
+        Edge(int to, int from, int weight){
             this.to = to;
-            this.par = par;
+            this.from = from;
             this.weight = weight;
         }
     }
