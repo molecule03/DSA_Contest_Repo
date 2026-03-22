@@ -15,27 +15,28 @@ public class Factory {
         document.open();
 
     }
+}
 
     interface Document{
         public void open();
     }
-    static class PDF implements  Document{
+    class PDF implements  Document{
         public void open(){
             System.out.println("This is a PDF Document");
         }
     };
-    static class Word implements  Document{
+    class Word implements  Document{
         public void open(){
             System.out.println("This is a Word Document");
         }
     };
-    static class Excel implements  Document{
+    class Excel implements  Document{
         public void open(){
             System.out.println("This is a Excel Document");
         }
     };
 
-    static class DocumentFactory{
+    class DocumentFactory{
 
         public Document createDocument(String type){
             Document document = switch (type) {
@@ -47,4 +48,3 @@ public class Factory {
             return document;
         }
     }
-}
